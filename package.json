@@ -9,7 +9,7 @@
   "author": "Marek Gryszkiewicz",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "peer": "^0.6.1",
     "socket.io": "^4.0.0",
     "uuid": "^3.4.0"
